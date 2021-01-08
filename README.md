@@ -1,4 +1,7 @@
 # PROJBAD
+
+W pliku BOW_ENG znajdują się prace nad BOW, o których rozmawialiśmy na spotkaniu 8.1.21. Dalsze badania, komentarze w kodzie i czystrzy kod pojawią się wkrótce.
+
 Pliki do projektu badawczego.
 Projekt badawczy "Generowanie słownego opisu obrazu".
 Będą tutaj się znajdować notebooki.
