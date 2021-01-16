@@ -5,6 +5,8 @@ W notebookach TagsTest, TranslateDescriptions i TranslationReviewer znajdują si
 
 W pliku WYNIKI_BOW znajdują się wyniki badań nad BOW.
 
+W pliku WYNIKI_ALL_ENG znajdują się wszystkie miary dla zbioru testowego i treningowego.
+
 W pliku BOW_ENG znajdują się prace nad BOW, o których rozmawialiśmy na spotkaniu 8.1.21. Dalsze badania, komentarze w kodzie i czystrzy kod pojawią się wkrótce.
 
 Pliki do projektu badawczego.
