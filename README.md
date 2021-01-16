@@ -1,4 +1,7 @@
 # PROJBAD
+W pliku BOW_and_ALL_MEASURES_FUNCTIONS znajduje się notebook w kodem dotyczącym BOW 12.01.21.
+
+W notebookach TagsTest, TranslateDescriptions i TranslationReviewer znajdują się prace nad tłumaczeniem na PL 12.01.21.
 
 W pliku WYNIKI_BOW znajdują się wyniki badań nad BOW.
 
