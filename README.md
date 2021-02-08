@@ -23,6 +23,9 @@ Następnie wytrenowaliśmy model z polskimi podpisami.
 #### Trenowanie nowego zbioru
 
 ## Wyniki
+Nasze wyniki sprawdzaliśmy za pomocą miar BOW, BLEU, CIDER.
+Wyniki zostały porównane dla zbiorów trenujących i testujących zbioru danych w języku angielskim i polskim.
+Szczegóły wyników zostały zawarte w plikach WYNIKI.
 
 ## Źródło
 https://paperswithcode.com/paper/deep-visual-semantic-alignments-for 
