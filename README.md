@@ -27,7 +27,8 @@ Nasze wyniki sprawdzaliśmy za pomocą miar BOW, BLEU, CIDER.
 Wyniki zostały porównane dla zbiorów trenujących i testujących zbioru danych w języku angielskim i polskim.
 Szczegóły wyników zostały zawarte w plikach WYNIKI.
 Poniżej otrzymany wynik dla zbioru danych w języku angielskim.
-<img src="eng.PNG" width = 800> 
+
+<img src="eng.PNG" width = 400> 
 
 ## Źródło
 https://paperswithcode.com/paper/deep-visual-semantic-alignments-for 
