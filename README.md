@@ -11,24 +11,33 @@ Następnie wytrenowaliśmy model z polskimi podpisami.
 
 ### Wykonane zadania
 #### Wyodrębnienie cech obrazu
+Podzieliliśmy nasz zbiór danych na treningowy o wielkości 6000 obrazów oraz testowy 1000.
+Do wyodrębnienia cech z obrazu użyliśmy sieci neuronowej. Korzystaliśmy z tranfer learning z modelu InceptionV3.
+Będziemy używać drugiej ostatniej warstwy, która będzie reprezentowac obraz w postaci licz, a nie jako klasyfikator.
 
 #### Definiowanie cech tekstu
-
-#### Trenowanie modelu
+Użyliśmy funkcji Word Embedding.
 
 #### Generator napisów
+Do generowania napisów używamy funkcji Gready Search.
 
 #### Tłumaczenie zbioru na język polski
+Skorzysaliśmy z Azure i przetłumaczyliśmy flickr8k na język polski.
 
 #### Trenowanie nowego zbioru
+Zbiór w języku polskim podzieliliśmy tak samo na trenujący i testowy, wytrenowlaiśmy go również w ten sam sposób.
 
 ## Wyniki
 Nasze wyniki sprawdzaliśmy za pomocą miar BOW, BLEU, CIDER.
 Wyniki zostały porównane dla zbiorów trenujących i testujących zbioru danych w języku angielskim i polskim.
-Szczegóły wyników zostały zawarte w plikach WYNIKI.
-Poniżej otrzymany wynik dla zbioru danych w języku angielskim.
+Szczegółowe wyniki i opisy miar zostały zawarte w plikach WYNIKI.
+Poniżej otrzymany podpis dla zbioru danych w języku angielskim.
 
 <img src="eng.PNG" width = 400> 
+
+Poniżej otrzymany podpis dla zbioru danych w języku polskim.
+
+<img src="pl.PNG" width = 400> 
 
 ## Źródło
 https://paperswithcode.com/paper/deep-visual-semantic-alignments-for 
