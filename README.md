@@ -1,27 +1,32 @@
-# PROJBAD
-W pliku BOW_and_ALL_MEASURES_FUNCTIONS znajduje się notebook w kodem dotyczącym BOW 12.01.21.
+# PROJEKT BADAWCZY
+## Generowanie słownego opisu obrazu
+## Bany Maciej, Krupińska Izabela
+## Wstęp
+Projekt badawczy opierał się na słowym opisie obrazów.
+Do trenowania i testowania użyliśmy zbioru flickr8k. 
+Opisy są generowane na podstawie korzystania z wyuczonego modelu.
+Model składa się z dwóch części. Informacje z obrazu oraz opisu obrazu.
+Kolejną częścią naszych badań było przetłumacznie podpisów zbioru na język polski z wykorzystaniem Azure. 
+Następnie wytrenowaliśmy model z polskimi podpisami.
 
-W notebookach TagsTest, TranslateDescriptions i TranslationReviewer znajdują się prace nad tłumaczeniem na PL 12.01.21.
+### Wykonane zadania
+#### Wyodrębnienie cech obrazu
 
-W pliku WYNIKI_BOW znajdują się wyniki badań nad BOW.
+#### Definiowanie cech tekstu
 
-W pliku WYNIKI_ALL_ENG znajdują się wszystkie miary dla zbioru testowego i treningowego.
+#### Trenowanie modelu
 
-W pliku BOW_ENG znajdują się prace nad BOW, o których rozmawialiśmy na spotkaniu 8.1.21. Dalsze badania, komentarze w kodzie i czystrzy kod pojawią się wkrótce.
+#### Generator napisów
 
-Pliki do projektu badawczego.
-Projekt badawczy "Generowanie słownego opisu obrazu".
-Będą tutaj się znajdować notebooki.
-Prosty kod do generowania słownego opisu obrazu na podstawie artykułów:
+#### Tłumaczenie zbioru na język polski
 
-https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
+#### Trenowanie nowego zbioru
 
+## Wyniki
+
+## Źródło
+https://paperswithcode.com/paper/deep-visual-semantic-alignments-for 
+https://arxiv.org/abs/1412.2306
+https://hub.packtpub.com/generating-automated-image-captions-using-nlp-and-computer-vision-tutorial/
 https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
-
-https://hub.packtpub.com/generating-automated-image-captions-using-nlp-and-computer-vision-tutorial/.
-
-Netooboki na podstawie artykułu: https://arxiv.org/abs/1412.2306.
-
-Oraz przetrenowane modele na podstawie powyższego artykułu.
-
-BANY KRUPIŃSKA
+https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
