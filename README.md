@@ -35,10 +35,6 @@ Poniżej otrzymany podpis dla zbioru danych w języku angielskim.
 
 <img src="eng.PNG" width = 400> 
 
-Poniżej otrzymany podpis dla zbioru danych w języku polskim.
-
-<img src="pl.PNG" width = 400> 
-
 ## Źródło
 https://paperswithcode.com/paper/deep-visual-semantic-alignments-for 
 https://arxiv.org/abs/1412.2306
